@@ -1,1 +1,1 @@
-Parallax effect and animation
+Practising basics of OOP, Animation, Sprites Animation 
